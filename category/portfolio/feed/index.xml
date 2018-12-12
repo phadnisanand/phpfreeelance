@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolio &#8211; PHP Freelancer India</title>
+	<atom:link href="http://www.phpfreelance.net/category/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.phpfreelance.net/</link>
+	<description>Work With Us And Get What You Want</description>
+	<lastBuildDate>Sat, 24 Nov 2018 13:21:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>www.forumgroupevents.com.au</title>
+		<link>http://www.phpfreelance.net/2013/12/www-forumgroupevents-com-au/</link>
+		<pubDate>Fri, 13 Dec 2013 18:06:40 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=260</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>webdesigningnow.com</title>
+		<link>http://www.phpfreelance.net/2013/12/webdesigningnow-com/</link>
+		<pubDate>Fri, 13 Dec 2013 18:05:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=257</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>shopdaisygirl.co</title>
+		<link>http://www.phpfreelance.net/2013/12/shopdaisygirl-co/</link>
+		<pubDate>Fri, 13 Dec 2013 18:04:03 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=254</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>wjbdradio.com</title>
+		<link>http://www.phpfreelance.net/2013/12/wjbdradio-com/</link>
+		<pubDate>Fri, 13 Dec 2013 18:02:27 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=251</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>www.vacationgetaways4less.com</title>
+		<link>http://www.phpfreelance.net/2013/12/www-vacationgetaways4less-com/</link>
+		<pubDate>Fri, 13 Dec 2013 17:59:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=248</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>sjpnet1.thestagingurl.com</title>
+		<link>http://www.phpfreelance.net/2013/12/sjpnet1-thestagingurl-com/</link>
+		<pubDate>Fri, 13 Dec 2013 17:56:35 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=244</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>townandcountryliquorstore.com</title>
+		<link>http://www.phpfreelance.net/2013/12/www-townandcountryliquorstore-com/</link>
+		<pubDate>Fri, 13 Dec 2013 17:53:56 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=241</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>charlestonhomebuyersagent.com</title>
+		<link>http://www.phpfreelance.net/2013/12/www-charlestonhomebuyersagent-com/</link>
+		<pubDate>Fri, 13 Dec 2013 17:51:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=237</guid>
+		<description><![CDATA[]]></description>
+		</item>
+		<item>
+		<title>www.bluecollarpreps.com</title>
+		<link>http://www.phpfreelance.net/2013/12/www-bluecollarpreps-com/</link>
+		<pubDate>Fri, 13 Dec 2013 17:50:15 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Portfolio]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=234</guid>
+		<description><![CDATA[]]></description>
+		</item>
+	</channel>
+</rss>

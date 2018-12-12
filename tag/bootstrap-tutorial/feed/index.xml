@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bootstrap tutorial &#8211; PHP Freelancer India</title>
+	<atom:link href="http://www.phpfreelance.net/tag/bootstrap-tutorial/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.phpfreelance.net/</link>
+	<description>Work With Us And Get What You Want</description>
+	<lastBuildDate>Sat, 24 Nov 2018 13:21:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>BootStrap Problems and Solutions</title>
+		<link>http://www.phpfreelance.net/2013/12/bootstrap/</link>
+		<pubDate>Sat, 14 Dec 2013 06:32:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[bootstrap 3 india]]></category>
+		<category><![CDATA[bootstrap navbar]]></category>
+		<category><![CDATA[bootstrap responsive css]]></category>
+		<category><![CDATA[bootstrap responsive design]]></category>
+		<category><![CDATA[bootstrap responsive example]]></category>
+		<category><![CDATA[bootstrap responsive image]]></category>
+		<category><![CDATA[bootstrap responsive menu]]></category>
+		<category><![CDATA[bootstrap responsive template]]></category>
+		<category><![CDATA[bootstrap responsive tutorial]]></category>
+		<category><![CDATA[bootstrap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=269</guid>
+		<description><![CDATA[BootStrap For Responsive Web Design Responsive Web design (RWD) is a Web design approach aimed at...]]></description>
+		</item>
+	</channel>
+</rss>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Technology &#8211; PHP Freelancer India</title>
+	<atom:link href="http://www.phpfreelance.net/category/technology/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.phpfreelance.net/</link>
+	<description>Work With Us And Get What You Want</description>
+	<lastBuildDate>Sat, 24 Nov 2018 13:21:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.5</generator>
+	<item>
+		<title>BootStrap Problems and Solutions</title>
+		<link>http://www.phpfreelance.net/2013/12/bootstrap/</link>
+		<pubDate>Sat, 14 Dec 2013 06:32:53 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+		<category><![CDATA[bootstrap 3 india]]></category>
+		<category><![CDATA[bootstrap navbar]]></category>
+		<category><![CDATA[bootstrap responsive css]]></category>
+		<category><![CDATA[bootstrap responsive design]]></category>
+		<category><![CDATA[bootstrap responsive example]]></category>
+		<category><![CDATA[bootstrap responsive image]]></category>
+		<category><![CDATA[bootstrap responsive menu]]></category>
+		<category><![CDATA[bootstrap responsive template]]></category>
+		<category><![CDATA[bootstrap responsive tutorial]]></category>
+		<category><![CDATA[bootstrap tutorial]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=269</guid>
+		<description><![CDATA[BootStrap For Responsive Web Design Responsive Web design (RWD) is a Web design approach aimed at...]]></description>
+		</item>
+		<item>
+		<title>What Is Zend Framework?</title>
+		<link>http://www.phpfreelance.net/2013/12/zend-framework/</link>
+		<pubDate>Sat, 07 Dec 2013 12:04:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=41</guid>
+		<description><![CDATA[Zend Framework is an open source, object oriented web application framework for PHP 5. Zend...]]></description>
+		</item>
+		<item>
+		<title>Magento Benifits</title>
+		<link>http://www.phpfreelance.net/2013/12/magento/</link>
+		<pubDate>Sat, 07 Dec 2013 11:55:43 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=38</guid>
+		<description><![CDATA[Magento is a feature-rich eCommerce platform solution that offers merchants complete flexibility and control over...]]></description>
+		</item>
+		<item>
+		<title>PHP &#8211; A Perfect Solution For Web development</title>
+		<link>http://www.phpfreelance.net/2013/12/php/</link>
+		<pubDate>Sat, 07 Dec 2013 11:50:48 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=36</guid>
+		<description><![CDATA[PHP is a widely-used general-purpose scripting language that is especially suited for Web development and...]]></description>
+		</item>
+		<item>
+		<title>WordPress Content Management System (CMS)</title>
+		<link>http://www.phpfreelance.net/2013/12/wordpress/</link>
+		<pubDate>Sat, 07 Dec 2013 11:48:06 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=34</guid>
+		<description><![CDATA[WordPress is a free and open source blogging tool and a content management system (CMS)...]]></description>
+		</item>
+		<item>
+		<title>OpenCart Free Open Source Ecommerce Platform</title>
+		<link>http://www.phpfreelance.net/2013/12/opencart/</link>
+		<pubDate>Sat, 07 Dec 2013 11:39:20 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=28</guid>
+		<description><![CDATA[OpenCart is free open source ecommerce platform for online merchants. OpenCart provides a professional and...]]></description>
+		</item>
+		<item>
+		<title>Joomla Free And Open Source Content Management Framework (CMS)</title>
+		<link>http://www.phpfreelance.net/2013/12/joomla/</link>
+		<pubDate>Sat, 07 Dec 2013 11:33:41 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=22</guid>
+		<description><![CDATA[Joomla is an award-winning content management system (CMS), which enables you to build Web sites...]]></description>
+		</item>
+		<item>
+		<title>Drupal Best Open Source Content Management Platform</title>
+		<link>http://www.phpfreelance.net/2013/12/drupal/</link>
+		<pubDate>Sat, 07 Dec 2013 11:27:22 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=19</guid>
+		<description><![CDATA[Drupal is an open source content management platform powering millions of websites and applications. It’s...]]></description>
+		</item>
+		<item>
+		<title>JQuery</title>
+		<link>http://www.phpfreelance.net/2013/12/jquery/</link>
+		<pubDate>Sat, 07 Dec 2013 11:24:51 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Technology]]></category>
+
+		<guid isPermaLink="false">http://www.phpfreelance.net/?p=17</guid>
+		<description><![CDATA[jQuery is a JavaScript Library. jQuery greatly simplifies JavaScript programming. jQuery is easy to learn....]]></description>
+		</item>
+	</channel>
+</rss>
